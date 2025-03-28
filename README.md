@@ -7,7 +7,9 @@
 -->
 <img src=https://github.com/user-attachments/assets/a614329e-08a5-41ff-be84-9e7306eff70c alt=nn-tech align=center>
 </header>
+
 # Eric Robinson, MLIS #
+
 Python developer and machine learning engineer.
 <!--
   <<< Author notes: Finish >>>
