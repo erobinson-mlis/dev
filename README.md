@@ -10,7 +10,7 @@
 
 # Eric Robinson, MLIS #
 
-Python developer and machine learning engineer.
+Librarian, Python developer, and machine learning engineer.
 <!--
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
